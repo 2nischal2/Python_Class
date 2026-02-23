@@ -21,3 +21,4 @@ sum_float = float(sum_int)
 #5.Check the types of each variable data types
 print(type(sum_int))
 print(type(sum_float))
+
